@@ -48,21 +48,21 @@ public class Preguiçapoli extends Animal_poli {
 
 	@Override
 	public void locomover() {
-		System.out.println("pulando arvores lentamente");
+		System.out.println("Locomoção:pulando arvores lentamente");
 		
 	}
 
 
 	@Override
 	public void alimentar() {
-		System.out.println("Folhas e frutas");
+		System.out.println("Alimentos:Folhas e frutas");
 		
 	}
 
 
 	@Override
 	public void emitirsom() {
-		System.out.println("Preguiçoso demais para isso:");
+		System.out.println("Emitir som:Preguiçoso demais para isso:");
 		
 	}
 

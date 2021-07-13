@@ -18,18 +18,18 @@ public Cachorropoli(String nome, String idade, String classe, String ferimento, 
 
 @Override
 public void locomover() {
-	System.out.println("correndo");
+	System.out.println("Locomoção:correndo");
 	
 }
 
 @Override
 public void alimentar() {
-	System.out.println("Ração artificial");	
+	System.out.println("Alimento:Ração artificial");	
 }
 
 @Override
 public void emitirsom() {
-	System.out.println("Latir");
+	System.out.println("Emitir som:Latir");
 }
 
 

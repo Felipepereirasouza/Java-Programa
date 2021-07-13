@@ -70,21 +70,21 @@ public class Cavalopoli extends Animal_poli {
 
 	@Override
 	public void locomover() {
-		System.out.println("cavalgar");
+		System.out.println("locomoção:cavalgar");
 		
 	}
 
 
 	@Override
 	public void alimentar() {
-		System.out.println("Matos e maças");
+		System.out.println("Alimentos:Matos e maças");
 		
 	}
 
 
 	@Override
 	public void emitirsom() {
-		System.out.println("Rugir");
+		System.out.println("Emitir som:Rugir");
 		
 	}
 	
